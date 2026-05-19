@@ -3,7 +3,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         /** ========================================**
-         ** @Author: Kareem Taha Abd El-Fatah
+         ** @Author: Kareem Taha Abd El-Fattah
          ** @Category: Route Assessment
          ** @brief: Every Session Java Code Assessment
         /** ========================================**/
