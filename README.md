@@ -10,7 +10,7 @@ It includes solved examples, code snippets, and small projects to help reinforce
 
 ## Structure
 - `session-1/` – Basic syntax, variables, and data types.
-- `session-2/` – Control flow, loops, and methods.
+- `session-2/` – Control flow and Operators.
 - `session-3/` – OOP basics (classes, objects, inheritance).
 - `session-4/` – Collections, exceptions, and file handling (if covered).
 
