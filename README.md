@@ -12,6 +12,8 @@ It includes solved examples, code snippets, and small projects to help reinforce
 - `session-1/` – Basic syntax, variables, and data types.
 - `session-2/` – Control flow and Operators.
 - `session-3/` – OOP basics (classes, objects, inheritance).
-- `session-4/` – Collections, exceptions, and file handling (if covered).
+- `session-4/` – Collections, exceptions, and file handling.
+- `session-5/` – Encapsulation, Inheritance, Polymorphism.
+- `session-6/` – Abstraction, Interfaces, Overloading, and Overriding.
 
 Contributions and corrections are welcome! 🚀
