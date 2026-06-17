@@ -15,5 +15,7 @@ It includes solved examples, code snippets, and small projects to help reinforce
 - `session-4/` – Collections, exceptions, and file handling.
 - `session-5/` – Encapsulation, Inheritance, Polymorphism.
 - `session-6/` – Abstraction, Interfaces, Overloading, and Overriding.
+- `session-7/` – String, StringBuilder.
+- `session-8/` – Lists, Exceptions, Enum.
 
 Contributions and corrections are welcome! 🚀
